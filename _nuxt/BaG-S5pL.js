@@ -1,0 +1,1 @@
+import{_ as n}from"./QOsyyQO3.js";import{_ as s}from"./NXkOJCP8.js";import{a as t,aD as _,c,o as e,F as a,e as m}from"./7cNSa_p_.js";const r="LIGHT_THEME",T=t({__name:"index",setup(i){const o=_();return(l,p)=>(e(),c("div",null,[m(o).global.name.value===r?(e(),a(n,{key:0})):(e(),a(s,{key:1}))]))}});export{T as _};

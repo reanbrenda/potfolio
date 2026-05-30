@@ -1,0 +1,1 @@
+import{Y as e,c,o as t}from"./7cNSa_p_.js";const n={},_={class:"pt-lg-160 pt-md-100 pt-50"};function o(s,r){return t(),c("div",_)}const p=Object.assign(e(n,[["render",o]]),{__name:"SharedSectionSpacer"});export{p as _};
