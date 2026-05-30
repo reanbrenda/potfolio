@@ -1,1 +1,1 @@
-import{Y as t,F as a,w as o,W as s,o as r,m as n}from"./7cNSa_p_.js";const c={};function l(i,e){return r(),a(s,null,{default:o(()=>[...e[0]||(e[0]=[n("div",null,"welcome to meskith ai",-1)])]),_:1})}const _=t(c,[["render",l]]);export{_ as default};
+import{Y as t,F as a,w as o,W as s,o as r,m as n}from"./7cNSa_p_.js";const c={};function l(i,e){return r(),a(s,null,{default:o(()=>[...e[0]||(e[0]=[n("div",null,"welcome to mukindia.labs ai",-1)])]),_:1})}const _=t(c,[["render",l]]);export{_ as default};
